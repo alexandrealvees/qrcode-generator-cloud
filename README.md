@@ -2,8 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.5-brightgreen)
-![AWS SDK](https://img.shields.io/badge/AWS%20SDK-2.24.12-yellow)
-![Google ZXing](https://img.shields.io/badge/Google%20ZXing-3.5.2-blue)
+![AWS SDK](https://img.shields.io/badge/AWS%20SDK-2.31.28-yellow)
+![Google ZXing](https://img.shields.io/badge/Google%20ZXing-3.5.3-blue)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.9.6-red)
 
@@ -82,9 +82,7 @@ AWS_BUCKET_NAME=your_bucket_name
 
 ## Application Flow
 
-> **Note**: This diagram was built on [Mermaid Online Editor](https://www.mermaidchart.com/app/projects/d95a6b85-4fcc-442f-827b-da6d7a456612/diagrams/f54eab59-6c0f-42d4-86ab-1afa9cee30ce/version/v0.1/edit).
-
-<img src="./.github/diagram.svg"/>
+![AppFlow](https://github.com/alexandrealvees/qrcode-generator-cloud/blob/master/src/main/resources/ims/AppFlow.png?raw=true)
 
 ## API Endpoints
 
